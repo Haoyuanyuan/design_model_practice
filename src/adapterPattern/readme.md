@@ -7,8 +7,10 @@
 - Adaptee：适配者类
 - Client：客户类
 ### 3.类图
-- 类适配器类图
+- 类适配器类图  
 ![Image text](https://github.com/Haoyuanyuan/design_model_practice/raw/master/src/adapterPattern/Adapter_classModel.jpg)
+- 对象适配器类图    
+![Image text](https://github.com/Haoyuanyuan/design_model_practice/raw/master/src/adapterPattern/Adapter.jpg)
 ### 4. 分类：
 1. 类适配器模式
 2. 对象适配器模式
