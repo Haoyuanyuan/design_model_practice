@@ -7,6 +7,8 @@
 - Decorator: 抽象装饰类	Decorator接口
 - ConcreteDecorator: 具体装饰类  BeautifyAppearance类和StrongBehaviour类
 - Client
+- 类图   
+![Image text](https://github.com/Haoyuanyuan/design_model_practice/raw/master/src/DecoratorPattern/Decorator.jpg)
 ### 3.优点：
 1. 装饰模式与继承关系的目的都是要扩展对象的功能，但是装饰模式可以提供比继承更多的灵活性。
 2. 可以通过一种动态的方式来扩展一个对象的功能，通过配置文件可以在运行时选择不同的装饰器，从而实现不同的行为。
